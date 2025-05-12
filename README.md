@@ -1,6 +1,6 @@
 # 👩‍💻 Sergio Cano Sosa
 
-[![GitHub](https://img.shields.io/badge/GitHub-LillianaU-181717?logo=github&style=flat-square)](https://github.com/sergiokno)
+[![GitHub](https://img.shields.io/badge/GitHub-sergiokno-181717?logo=github&style=flat-square)](https://github.com/sergiokno)
 
 
 ## 🌟 Sobre mí

@@ -2,50 +2,54 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-sergiokno-181717?logo=github&style=flat-square)](https://github.com/sergiokno)
 
+## 🧪 Sobre mí
 
-## 🌟 Sobre mí
+Hola 👋 Soy **Sergio Cano Sosa**, **QA Junior** con formación como **Tecnólogo en Análisis y Desarrollo de Software**.
 
-✨ ¡Hola! Soy **Sergio Cano Sosa**, apasionado por el **desarrollo fullstack**, la **educación tecnológica**, **la calidad del software** y la creación de soluciones que conectan el aprendizaje con la innovación.  
-💻 Como **Tecnologo de analisis y desarrollo de software**, aplico buenas prácticas de **programación orientada a objetos** y promuevo el **código limpio y estructurado**.
+Me enfoco en la **calidad del software**, realizando **pruebas manuales y automatizadas**, con especial interés en la **automatización de pruebas UI y API**.  
+Mi formación en desarrollo me permite entender mejor la lógica de negocio, el frontend y el backend, aportando valor al proceso de testing desde etapas tempranas.
+
+Actualmente continúo fortaleciendo mis habilidades en **QA Automation**.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas de QA
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+### 🧪 Testing & QA
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+### 💻 Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Base de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### Herramientas de Desarrollo
+### 🗂️ Gestión y control
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### 🗄️ Bases de datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
 
 ---
 
-## 💡 Áreas de Especialización
+## 📌 Conocimientos Clave en QA
 
-- 🌐 Desarrollo Junior (Frontend + Backend)
-- ⚙️ Programación Orientada a Objetos (POO)
-- 🧹 Código limpio y estructurado
-- 🧮 Ciencia de Datos con Python
-- 📊 Construcción de APIs RESTful
-- 💾 Gestión de Bases de Datos Relacionales y No Relacionales
-- 🎯 Aplicaciones responsivas y optimizadas
-  
+- Diseño y ejecución de **casos de prueba**
+- **Pruebas funcionales**, smoke y regresión
+- **Reporte y seguimiento de defectos**
+- Automatización de pruebas UI con **Selenium + Python + Pytest**
+- Validación de **APIs REST** con Postman
+- Pruebas básicas de rendimiento con JMeter
+- Metodologías ágiles (**Scrum**)
 
+---
 
+## 🎯 Objetivo Profesional
 
+Busco oportunidades como **QA Junior / QA Automation Junior**, donde pueda seguir creciendo en automatización de pruebas y aportar a la mejora continua de la calidad del software.
 
+📌 En este perfil encontrarás **proyectos de testing manual, automatización y pruebas de API**.

@@ -51,5 +51,3 @@ Actualmente continúo fortaleciendo mis habilidades en **QA Automation**.
 ## 🎯 Objetivo Profesional
 
 Busco oportunidades como **QA Junior / QA Automation Junior**, donde pueda seguir creciendo en automatización de pruebas y aportar a la mejora continua de la calidad del software.
-
-📌 En este perfil encontrarás **proyectos de testing manual, automatización y pruebas de API**.
